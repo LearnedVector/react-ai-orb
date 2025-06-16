@@ -30,6 +30,17 @@ The component needs to be imported like this:
 import { Orb } from "react-ai-orb";
 ```
 
+## 📱 React Native
+A simple React Native version is available in the `react-native` folder. Copy the files and install `react-native-svg`:
+```bash
+npm install react-native-svg
+```
+Then import the component:
+```jsx
+import { Orb } from "./react-native";
+```
+
+
 ## ⚙️ Props
 | Prop                  | Type        | Default         | Description                                                                 |
 |-----------------------|-------------|-----------------|-----------------------------------------------------------------------------|
